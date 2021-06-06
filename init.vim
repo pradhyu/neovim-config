@@ -6,7 +6,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'fatih/vim-go'
 Plug 'kassio/neoterm'
 Plug 'jpalardy/vim-slime'
-
+Plug 'liuchengxu/vim-which-key'
+Plug 'codota/tabnine-vim'
 call plug#end()
 
 let g:slime_target = "neovim"
