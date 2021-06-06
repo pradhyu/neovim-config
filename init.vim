@@ -12,3 +12,6 @@ call plug#end()
 
 let g:slime_target = "neovim"
 
+
+set linenumber
+set relativenumber
